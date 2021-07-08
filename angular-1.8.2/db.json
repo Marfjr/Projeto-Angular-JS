@@ -1,0 +1,48 @@
+{
+  "contatos": [
+    {
+      "nome": "Marco Aurelio",
+      "telefone": "44991778775",
+      "operadora": {
+        "nome": "Vivo",
+        "codigo": 15
+      },
+      "data": "2021-07-08T14:39:48.521Z",
+      "id": 2
+    },
+    {
+      "operadora": {
+        "nome": "Tim",
+        "codigo": 15
+      },
+      "nome": "Carla",
+      "telefone": "44999997777",
+      "data": "2021-07-08T14:40:22.814Z",
+      "id": 4
+    },
+    {
+      "operadora": {
+        "nome": "Claro",
+        "codigo": 15
+      },
+      "nome": "Ana",
+      "telefone": "44999998888",
+      "data": "2021-07-08T14:40:37.687Z",
+      "id": 5
+    }
+  ],
+  "operadoras": [
+    {
+      "nome": "Vivo",
+      "codigo": 15
+    },
+    {
+      "nome": "Claro",
+      "codigo": 15
+    },
+    {
+      "nome": "Tim",
+      "codigo": 15
+    }
+  ]
+}
